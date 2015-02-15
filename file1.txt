@@ -1,0 +1,2 @@
+foreach thing in things 
+do this thing
