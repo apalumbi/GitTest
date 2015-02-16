@@ -9,4 +9,4 @@ Feature2 changes
 new things for me to do here
 
 Fixing bug1234
-
+Another fix to bug 1234
