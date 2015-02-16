@@ -1,4 +1,8 @@
 foreach thing in things 
 do this thing
+<<<<<<< HEAD
 
 feature3
+=======
+fix1
+>>>>>>> adbd73a... Added fix1
